@@ -1,0 +1,6 @@
+6. the internet is a global network of computers and servers, the web is information within the internet
+
+7. the internet is like a wire, computers communicate along that wire with other computers and servers
+   through ISP's (internet Service Providers) in order to exchange data and information. 
+   
+8. directory is the main source for files. within I can find files that have been created within the directory.   
