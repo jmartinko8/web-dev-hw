@@ -1,0 +1,17 @@
+6. How does information travel through the internet?
+
+  - Information travels through the internet in bits, which is binary information, 1 meaning on, 0 meaning off.
+  these bits travel with the use of electricity one way it can travel is through fiber cables that allow the
+  bits to travel at the speed of light from one source to another. the bits bounce up and down through the cables,
+  so, depending on the angle, bits can travel at different speeds.
+
+
+8. What is a cookie?
+
+  - A cookie is a small file that is stored on your computer made to hold data about a user and a certain website
+
+9. what are the three basic parts of a URL?
+
+  - protocol
+  - domain
+  - path
