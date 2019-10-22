@@ -1,0 +1,3 @@
+HTML was very interesting. a lot of different parts go into it, a hell of a lot more than I realized, But I had a lot of fun playing with it and going through all the steps and slowly building a HTML site.
+Im excited to learn how to style a HTML site more. the more tricks and cool style stuff the more interested I am. these last couple of assignments have been kinda confusing but also really fun to work on.
+my work cycle hasnt really changed. again its mostly following along with the walk through video but this week i took some things from past assignments and had to incorperate them into this one. 
