@@ -1,0 +1,2 @@
+I used 4 colors for mine, red, orange, skyblue blue and purple. I chose those while looking at the different jumpsuits and those matched the color schemes pretty well. when I think of the 80s and fashion I just think of those jumpsuits. There is something about those that are just iconic in my mind.
+My work process was the same as previous weeks. I have found that as we get into more difficult and intricate things, that I am emailing my teacher a lot more and that has been very helpful. 
