@@ -1,12 +1,19 @@
 h1 {
-  color: red;
+  color:  green;
 }
-.square {background-color: green;}
+.square {width: 50%;
+  height: 300px;
+}
+p {
+  color: lightgreen;
+
+}
+
 
 #red { background-color: red;
 
 }
-#blue { background-color: blue;
+#blue { background-color: skyblue;
 
 }
 #orange { background-color: orange;
