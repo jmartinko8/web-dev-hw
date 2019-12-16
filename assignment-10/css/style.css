@@ -1,15 +1,18 @@
+
 body {
   background-color: red;
   color: white;
   padding: 5px;
-
+font-family: 'Oswald', sans-serif;
 }
 
 
 text {
   background-color: white;
   color: red;
-  padding: 5px
+  padding: 5px;
 
-
+}
+p:first-of-type:first-letter {
+  font-family: 'Special Elite', cursive;
 }
